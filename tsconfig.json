@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "outDir": "dist",
+    "module": "esnext",
+    "target": "es2020",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "lib": ["es6", "dom", "dom.iterable"],
+  }
+}
